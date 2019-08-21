@@ -5,8 +5,37 @@
 }
 
 body {
-    background-color: #ddd;
+    background-color: #839cb4;
 }
+
+/* colors */
+
+/* 
+
+pokemon =
+red 
+#cd4a31
+
+purple 
+#525aac
+
+grey 
+#839cb4
+
+darker grey 
+#4a5a73
+
+yea =
+aquamarine
+aqua
+
+meh =
+cornflowerblue
+lightslategrey
+greenyellow
+#ddd
+
+*/
 
 /* header styles */
 
@@ -26,6 +55,8 @@ header h1 {
     text-align: center;
     font-size: 50px;
     margin-top: 5px;
+    font-family: impact;
+    letter-spacing: 2px;
 }
 
 /* option section styles */
@@ -53,6 +84,8 @@ header h1 {
     justify-content: center;
     margin: 0px;
     padding: 15px;
+    font-family: impact;
+    letter-spacing: 2px;
 }
 
 .photo-gallery li {
@@ -63,13 +96,13 @@ header h1 {
     margin: 10px;
     border-radius: 5%;
     text-align: center;
-    border: 5px solid lightslategrey;
+    border: 5px solid greenyellow;
 }
 
 .photo-gallery li img {
     max-height: 300px;
     border-radius: 5%;
-    border: 5px solid lightslategrey;
+    border: 5px solid aqua;
 }
 
 
