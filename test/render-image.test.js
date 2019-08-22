@@ -18,7 +18,7 @@ test('renders html from data', assert => {
         <li title="A unicorn and a narwhal nuzzling their horns">
             <img src="http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg" alt="UniWhal">
             <h3>UniWhal</h3>
-            <p>Number of horns: 1</P>
+            <p>Number of horns: 1</p>
         </li>
     `;
 
