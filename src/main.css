@@ -105,6 +105,16 @@ header h1 {
     border: 5px solid aqua;
 }
 
+.photo-gallery li p {
+    font-family: Helvetica;
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: -0.5px;
+}
+
+.photo-gallery li h3 {
+    font-size: 20px;
+}
 
 /* footer styles */
 
